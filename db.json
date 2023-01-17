@@ -4,6 +4,7 @@
   "puzzle": "Life insurance (Puzzle)",
   "lego": {
     "cnq": {
+      "personal_question_1": "Number of children (minor)",
       "person_question_1": {
         "answer_none": "None",
         "answer_1": "1",
