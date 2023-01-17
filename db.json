@@ -1,5 +1,17 @@
 {
   "dashboard": "Customer dasboard",
   "deal_list": "Deal list",
-  "puzzle": "Life insurance (Puzzle)"
+  "puzzle": "Life insurance (Puzzle)",
+  lego.cnq.person_question_1.answer_none
+  "lego": {
+    "cnq": {
+      "person_question_1": {
+        "answer_none": "None",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_more": "4"
+      }
+    }
+  }
 }
